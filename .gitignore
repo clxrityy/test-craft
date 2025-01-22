@@ -1,0 +1,16 @@
+notes.txt
+*/.cache/*
+*.env*
+*/libraries/*/*
+*/plugins/*/*
+*/logs/*
+*/crash-reports/*
+*/cache/*
+.rcon-cli.*
+*/.console_history
+*/world/*
+*/world_nether/*
+*/world_the_end/*
+*/versions/*/*.jar
+*.tmp
+*/*.json

@@ -1,0 +1,17 @@
+services:
+
+  mc:
+    image: itzg/minecraft-server
+    # build: .
+    environment:
+      EULA: "TRUE"
+      MOTD: "§3mjanglin.com"
+      TYPE: "PAPER"
+      MEMORY: "4G"
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./server:/data
+    restart: on-failure:3
+    ports:
+      - "25565:25565"
