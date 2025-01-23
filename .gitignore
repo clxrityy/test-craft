@@ -14,3 +14,10 @@ notes.txt
 */versions/*/*.jar
 *.tmp
 */*.json
+*node_modules
+/dist
+!/web/*.json
+
+
+### TEMP
+/web

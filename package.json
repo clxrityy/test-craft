@@ -1,0 +1,15 @@
+{
+  "name": "test-craft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chmod": "chmod +x ./bin/*.sh",
+    "start": "./bin/start.sh",
+    "stop": "./bin/stop.sh",
+    "start:watch" : "./bin/start-watch.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
