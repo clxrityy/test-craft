@@ -1,3 +1,6 @@
+<img src="/banner.png" width="100%" />
+
+
 # test-craft <img src="./server/server-icon.png" width="25" height="26" />
 
 ###### A local Minecraft development server.

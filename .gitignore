@@ -17,7 +17,7 @@ notes.txt
 *node_modules
 /dist
 !/web/*.json
-
+.DS_Store
 
 ### TEMP
 /web
