@@ -18,6 +18,7 @@ notes.txt
 /dist
 !/web/*.json
 .DS_Store
+*.properties
 
 ### TEMP
 /web
